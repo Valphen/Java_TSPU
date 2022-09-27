@@ -1,0 +1,16 @@
+package kononchik_403_java.zadanie_5;
+
+public class Zadanie_5 {        
+    public static int a = 5;
+    public static int b = 5;
+    public static int c = 10;
+    public static int d = 20;
+
+    public static void main(String[] args) {
+        
+        int result = -a - b + c + d;
+
+        System.out.println(result);
+    }
+
+}
