@@ -1,0 +1,14 @@
+package kononchik_403_java.zadanie_4;
+
+import java.util.Scanner;
+public class Zadanie_4 {
+
+    public static void main(String[] args) {
+        
+    int a;
+    Scanner s = new Scanner(System.in);
+    
+    a = s.nextInt();
+    System.out.println(a * a);
+    }
+}
