@@ -1,0 +1,12 @@
+package kononchik_403_java.zadanie_2;
+
+public class Zadanie_2 {
+
+    public static void main(String[] args){
+        
+    String name = "Hello, Hello, Hello!"; 
+    
+    System.out.println(""+name);
+    
+    }
+}
